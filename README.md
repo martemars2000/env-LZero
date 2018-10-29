@@ -1,4 +1,4 @@
 # env-LZero
 
-TODO: Enter the cookbook description here.
+Cookbook configuration for Laravel Zero CLI working environment. (Uses PHP7.1)
 
